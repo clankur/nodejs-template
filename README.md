@@ -1,7 +1,6 @@
 # boilerplate node template
-
+A simple boilerplate template with not too many bells and whistles. 
 ## Setting it up
-
 ### Clone the repo
 To start using the template just clone the repo using the following commands.
 ```
@@ -15,7 +14,7 @@ npm install
 ```
 
 ### Starting it up
-
+You can start the application on localhost:8080 by running the command:
 ```
 $ npm start
 ```
