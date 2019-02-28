@@ -1,6 +1,6 @@
 # boilerplate node template
 
-## Setting up
+## Setting it up
 
 ### Clone the repo
 To start using the template just clone the repo using the following commands.
